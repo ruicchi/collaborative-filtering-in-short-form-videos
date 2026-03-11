@@ -1,5 +1,8 @@
 # Collaborative Filtering to Mitigate Filter Bubbles in Short-Form Videos
 
+> [!IMPORTANT]
+> This repository contains only a proof of concept for a university research title defense. It was created for demonstration purposes and is not actively maintained or intended for production use.
+
 A simple, fully-working Python system that detects and mitigates **filter bubbles** in short-form video platforms (TikTok, YouTube Shorts, Instagram Reels) using collaborative filtering and diversity-aware re-ranking.
 
 ---
